@@ -1,0 +1,46 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-078-958
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:22:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Asus\\Downloads\\Cloud Proj2\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-078-958
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swagger.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Asus\\Downloads\\Cloud Proj2\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-078-958
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 129-078-958
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "GET /swagger.json HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:33:19] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:33:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:42:26] "POST /upload HTTP/1.1" 200 -

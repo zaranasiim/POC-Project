@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+</head>
+<body>
+    <h1>Classification Result</h1>
+
+    <p><strong>Prediction Details:</strong></p>
+    <p>ID: {{ prediction['id'] }}</p>
+    <p>Project: {{ prediction['project'] }}</p>
+    <p>Iteration: {{ prediction['iteration'] }}</p>
+    <p>Created: {{ prediction['created'] }}</p>
+
+    <p><strong>Prediction Classes:</strong></p>
+    <ul>
+        {% for p in prediction['predictions'] %}
+            <li>
+                <strong>{{ p['tagName'] }}:</strong>
+                Probability: {{ p['probability'] }}
+            </li>
+        {% endfor %}
+    </ul>
+
+
+</body>
+</html>
