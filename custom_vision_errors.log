@@ -3,44 +3,497 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 129-078-958
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:16] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:21:34] "POST /upload HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:22:16] "POST /upload HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in 'c:\\Users\\Asus\\Downloads\\Cloud Proj2\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 19:42:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 19:42:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 099d0f3fc0ef4cf1863bee8837fc64fa"}
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 19:43:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 20:32:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 20:32:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 20:32:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2023 20:32:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 00:41:55] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 96310f80b0fd45b6b94affb3ab68cce3"}
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 00:42:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 00:42:56] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: dbc0b97fc37d48b0a3b117fd887d60c0"}
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2023 00:44:03] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:23:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:23:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 025ba95c965a453a89a1c1cd83ae50fd"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:25:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+ERROR:root:An exception occurred: name 'files' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:33:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:33:43] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: name 'files' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:33:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+ERROR:root:An exception occurred: too many values to unpack (expected 2)
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:34:18] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:34:20] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: too many values to unpack (expected 2)
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:34:23] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 63c6dece1e774bdbaec261eed00ab96b"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:37:38] "POST /upload HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: dd00bfe258d240c793eabdf8623d2bd4"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:37:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:39:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:39:15] "POST /upload HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 3a34d46cfd7b4c30823b48f6ebfc9271"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:39:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:39:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:40:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:40:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:40:42] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: b631077b5ae1427fa2f62221b61d689b"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:40:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:42:32] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: b453e3d577db480ab17c90b991b17fa3"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:42:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:42:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\yo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:50:03] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 1f0f3a6276cb4e579829b96c4ed7dee0"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:50:06] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\yo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\yo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:51:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 20:51:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:00:50] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: e5be0e665eba4db8b977786d3c5b8ff6"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:00:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:04:27] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: cannot encode objects that are not 2-tuples
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:04:29] "POST /upload HTTP/1.1" 200 -
+ERROR:root:An exception occurred: cannot encode objects that are not 2-tuples
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:04:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:08:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:08:35] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: expected str, bytes or os.PathLike object, not FileStorage
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:08:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:09:46] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: cannot encode objects that are not 2-tuples
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:09:48] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:12:16] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: ddea61c6cde2454b99a7db30f9051820"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:12:18] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:12:49] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageFormat","message":"Bad Request Image Format, Uri: 6b0bb62a3feb4df887c3d8098d877b8e"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:12:52] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:14:31] "GET / HTTP/1.1" 200 -
+ERROR:root:Error 400: {"code":"BadRequestImageStream","message":"87b726c776c746b7b1ee490821b532f8"}
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:14:33] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:18:30] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: result.html
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:18:33] "POST /upload HTTP/1.1" 200 -
+ERROR:root:An exception occurred: result.html
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:18:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2023 21:21:16] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:42:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:42:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:45:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:46:56] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:47:15] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:48:04] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:48:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:53:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:53:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:57:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 18:57:32] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:00:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:00:46] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
 INFO:werkzeug: * Restarting with stat
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 129-078-958
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swagger.json HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:32] "GET /swaggerui/favicon-32x32.png HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:27:53] "POST /upload HTTP/1.1" 200 -
-INFO:werkzeug: * Detected change in 'c:\\Users\\Asus\\Downloads\\Cloud Proj2\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:03:22] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: Object of type bytes is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:03:28] "POST /upload HTTP/1.1" 200 -
+ERROR:root:An exception occurred: Object of type bytes is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:03:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 129-078-958
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:10:02] "GET / HTTP/1.1" 200 -
+ERROR:root:An exception occurred: Object of type bytes is not JSON serializable
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:10:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
 INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
-INFO:werkzeug: * Debugger PIN: 129-078-958
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "GET / HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/swagger-ui.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/droid-sans.css HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "GET /swagger.json HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:29:46] "[36mGET /swaggerui/favicon-32x32.png HTTP/1.1[0m" 304 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:33:19] "POST /upload HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:33:37] "POST /upload HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 01:42:26] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:11:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:11:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:13:12] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:13:18] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:13:44] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:21:28] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:22:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:22:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:23:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:26:12] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:26:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:30:35] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:31:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:44:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:44:54] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:46:25] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:47:34] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:48:43] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:49:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:49:21] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:53:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:53:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:54:00] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:54:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:54:31] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:55:17] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2023 19:57:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [04/Nov/2023 21:06:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Nov/2023 21:06:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Nov/2023 21:06:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2023 19:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2023 19:43:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2023 19:44:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:127.0.0.1 - - [05/Nov/2023 19:46:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\annan\\PycharmProjects\\pythonProject\\image.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 262-788-786
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 955-820-373
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 19:39:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 19:39:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Nov/2023 19:39:17] "POST /upload HTTP/1.1" 200 -

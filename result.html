@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Result</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 20px;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        p {
+            margin: 0;
+        }
+        
+        strong {
+            font-weight: bold;
+        }
+        
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        li strong {
+            display: block;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Classification Result</h1>
+
+    <p><strong>Prediction Details:</strong></p>
+    <ul>
+        <li>ID: {{ prediction['id'] }}</li>
+        <li>Project: {{ prediction['project'] }}</li>
+        <li>Iteration: {{ prediction['iteration'] }}</li>
+        <li>Created: {{ prediction['created'] }}</li>
+    </ul>
+
+    <p><strong>Prediction Classes:</strong></p>
+    <ul>
+        {% for p in prediction['predictions'] %}
+        <li>
+            <strong>{{ p['tagName'] }}:</strong> Probability: {{ p['probability'] }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>
