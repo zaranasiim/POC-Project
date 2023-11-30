@@ -22,7 +22,7 @@ custom_vision_api_key = 'b84a761e1dc24029a24e6e46b878024a'
 r = redis.StrictRedis(
     host='redis-19450.c251.east-us-mz.azure.cloud.redislabs.com',
     port=19450,
-    password='MyLoveForYouNeverCeasesToExist'
+    password='************'
 )
 
 # Initialize the record counter from Redis, or set it to 1 if not found
